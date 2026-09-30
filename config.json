@@ -1,0 +1,45 @@
+{
+  "joystick_index": 0,
+  "deadzone": 0.15,
+  "sensitivity": 12.0,
+  "scroll_sensitivity": 1.0,
+  "poll_interval_ms": 8,
+  "invert_y": false,
+  "smoothing": 0.0,
+  "sensitivity_step": 1.0,
+  "sensitivity_min": 2.0,
+  "sensitivity_max": 40.0,
+  "startup_grace_seconds": 2.0,
+  "control_buttons": {
+    "toggle_mode": 8,
+    "quit": 9,
+    "sens_up": 7,
+    "sens_down": 6
+  },
+  "reserved_buttons": [],
+  "voice": {
+    "enabled": true,
+    "language": "id-ID",
+    "toggle_button": 3,
+    "enter_button": 0,
+    "enter_hold_seconds": 0.0,
+    "freeze_mouse_while_recording": true,
+    "auto_enter": false,
+    "recognizer": "google",
+    "typing_interval": 0.01,
+    "overlay_enabled": true,
+    "beep_enabled": true,
+    "auto_boost_mic": true
+  },
+  "button_map": {
+    "left_click": 2,
+    "right_click": 1,
+    "middle_click": -1
+  },
+  "axis_map": {
+    "cursor_x": 0,
+    "cursor_y": 1,
+    "scroll_x": 2,
+    "scroll_y": 3
+  }
+}

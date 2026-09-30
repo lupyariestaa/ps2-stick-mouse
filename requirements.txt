@@ -1,0 +1,9 @@
+pygame==2.6.1
+pynput==1.8.2
+watchdog==6.0.0
+pystray==0.19.5
+Pillow==12.3.0
+SpeechRecognition==3.17.0
+pyaudio==0.2.14
+pycaw==20260927
+comtypes==1.4.17
